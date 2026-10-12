@@ -55,6 +55,6 @@ This proof of concept uses synthetic data with an artificially introduced signal
 
 Research Outputs:
 
--[View experiment](https://github.com/sinchujoshi24-ship-it/neurodegeneration-ai-prediction-model-stanford/blob/main/Stanford_internship.ipynb)
-- [View Presentation](https://github.com/sinchujoshi24-ship-it/neurodegeneration-ai-prediction-model-stanford/blob/main/Neuroscience_Forum_Stanford.pdf)
+- [View experiment](https://github.com/sinchujoshi24-ship-it/neurodegeneration-ai-prediction-model-stanford/blob/main/Stanford_internship.ipynb)
+- [View Presentation](https://github.com/sinchujoshi24-ship-it/neurodegeneration-ai-prediction-model-stanford/blob/main/Neuroscience_Forum_Stanford.pdf.pdf)
 - [View paper](https://www.researchgate.net/publication/397076724_Early_Detection_of_Neurodegenerative_Disease_via_AI-Decoded_Microglial_Activation_from_3D_Brain_Imaging)
